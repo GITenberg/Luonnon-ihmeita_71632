@@ -1,0 +1,28 @@
+_repo: Luonnon-ihmeita_71632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+description: ''
+gutenberg_issued: '2023-09-13'
+identifiers:
+  gutenberg: '71632'
+language: fi
+pgterms:marc905: 20230912083440joutsen
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Luonnon ihmeitä
+url: http://www.gutenberg.org/ebooks/71632
